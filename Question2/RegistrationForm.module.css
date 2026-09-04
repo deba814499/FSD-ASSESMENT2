@@ -1,0 +1,30 @@
+.form {
+  max-width: 350px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #f7f7f7;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.form input {
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.form button {
+  padding: 8px 16px;
+  background: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.details {
+  margin: 20px;
+  padding: 15px;
+  border-left: 4px solid #4a90e2;
+  background: #eef6ff;
+}
